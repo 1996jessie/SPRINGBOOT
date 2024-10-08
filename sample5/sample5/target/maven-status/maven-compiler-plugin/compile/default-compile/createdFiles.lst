@@ -1,0 +1,7 @@
+com\example\sample5\entity\QCafeEntity.class
+com\example\sample5\repository\CafeRepository.class
+com\example\sample5\Sample5Application.class
+com\example\sample5\entity\CafeEntity.class
+com\example\sample5\service\CafeService.class
+com\example\sample5\bean\CafeBean.class
+com\example\sample5\controller\CafeController.class

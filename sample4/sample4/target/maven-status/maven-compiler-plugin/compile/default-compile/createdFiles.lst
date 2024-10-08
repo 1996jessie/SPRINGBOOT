@@ -1,0 +1,7 @@
+com\example\sample4\repository\MovieRepository.class
+com\example\sample4\service\MovieService.class
+com\example\sample4\entity\QMovieEntity.class
+com\example\sample4\entity\MovieEntity.class
+com\example\sample4\bean\MovieBean.class
+com\example\sample4\Sample4Application.class
+com\example\sample4\controller\MovieController.class
